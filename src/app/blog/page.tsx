@@ -6,7 +6,7 @@ const posts = [
         title: "Learn React",
     },
     {
-        slug: "nextjs",
+        slug: "nextjssssssssss",
         title: "Learn Next.js",
     },
     {
